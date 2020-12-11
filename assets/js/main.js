@@ -28,7 +28,7 @@ $(document).ready(function(){
       document.getElementById("load").style.display="none";
     }
     /*--------------------------------------------------------*/
-     console.log(document.clientY);
+     
     /*------------------------Custom-made-scroll--------------------------------*/
     var cursor=$("#cursor");
 
